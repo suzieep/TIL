@@ -23,4 +23,4 @@ https://velog.io/@suzieep
 <br/>
 [230107 MSA](https://github.com/suzieep/TIL/blob/main/230107.md)
 <br/>
-[230109 230109 spring bean, IoC container, java conventions, kurento application server logic intro](https://github.com/suzieep/TIL/blob/main/230109.md)
+[230109 spring bean, IoC container, java conventions, kurento application server logic intro](https://github.com/suzieep/TIL/blob/main/230109.md)
