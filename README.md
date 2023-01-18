@@ -24,3 +24,15 @@ https://velog.io/@suzieep
 [230107 MSA](https://github.com/suzieep/TIL/blob/main/230107.md)
 <br/>
 [230109 spring bean, IoC container, java conventions, kurento application server logic intro](https://github.com/suzieep/TIL/blob/main/230109.md)
+<br/>
+[230110 spring mysql 셋팅](https://github.com/suzieep/TIL/blob/main/230110.md)
+<br/>
+[230111 Spring JPA](https://github.com/suzieep/TIL/blob/main/230111.md)
+<br/>
+[230112 @id 어노테이션](https://github.com/suzieep/TIL/blob/main/230112.md)
+<br/>
+[230113 Spring Data JPA relation table](https://github.com/suzieep/TIL/blob/main/230113.md)
+<br/>
+[230114 Spring Data JPA, Projection, yml 분리](https://github.com/suzieep/TIL/blob/main/230114.md)
+<br/>
+[230115 Spring Data JPA 관계 매핑, @Slf4j](https://github.com/suzieep/TIL/blob/main/230115.md)
