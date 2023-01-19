@@ -9,7 +9,8 @@ conferenceroom.js:168 Sending message:
 participant.js:87 Local candidate
 {"candidate":"candidate:42012849 1 udp 2122260223 10.5.26.45 52538 typ host generation 0 ufrag eya3 network-id 2","sdpMid":"0","sdpMLineIndex":0}
 conferenceroom.js:168 Sending message: {"id":"onIceCandidate","candidate":{"candidate":"candidate:42012849 1 udp 2122260223 10.5.26.45 52538 typ host generation 0 ufrag eya3 network-id 2","sdpMid":"0","sdpMLineIndex":0},"name":"ryan"}
-participant.js:87 Local candidate{"candidate":"candidate:3603914798 1 udp 2122194687 10.99.36.127 62623 typ host generation 0 ufrag eya3 network-id 1 network-cost 10","sdpMid":"0","sdpMLineIndex":0}
+participant.js:87 Local candidate
+{"candidate":"candidate:3603914798 1 udp 2122194687 10.99.36.127 62623 typ host generation 0 ufrag eya3 network-id 1 network-cost 10","sdpMid":"0","sdpMLineIndex":0}
 conferenceroom.js:168 Sending message: {"id":"onIceCandidate","candidate":{"candidate":"candidate:3603914798 1 udp 2122194687 10.99.36.127 62623 typ host generation 0 ufrag eya3 network-id 1 network-cost 10","sdpMid":"0","sdpMLineIndex":0},"name":"ryan"}
 participant.js:87 Local candidate{"candidate":"candidate:42012849 1 udp 2122260223 10.5.26.45 52472 typ host generation 0 ufrag eya3 network-id 2","sdpMid":"1","sdpMLineIndex":1}
 conferenceroom.js:168 Sending message: {"id":"onIceCandidate","candidate":{"candidate":"candidate:42012849 1 udp 2122260223 10.5.26.45 52472 typ host generation 0 ufrag eya3 network-id 2","sdpMid":"1","sdpMLineIndex":1},"name":"ryan"}
@@ -39,6 +40,7 @@ participant.js:87 Local candidate{"candidate":"candidate:231489647 1 udp 1685987
 conferenceroom.js:168 Sending message: {"id":"onIceCandidate","candidate":{"candidate":"candidate:231489647 1 udp 1685987071 211.34.57.30 20263 typ srflx raddr 10.99.36.127 rport 62623 generation 0 ufrag eya3 network-id 1 network-cost 10","sdpMid":"0","sdpMLineIndex":0},"name":"ryan"}
 participant.js:87 Local candidate{"candidate":"candidate:231489647 1 udp 1685987071 211.34.57.30 40721 typ srflx raddr 10.99.36.127 rport 56049 generation 0 ufrag eya3 network-id 1 network-cost 10","sdpMid":"1","sdpMLineIndex":1}
 conferenceroom.js:168 Sending message: {"id":"onIceCandidate","candidate":{"candidate":"candidate:231489647 1 udp 1685987071 211.34.57.30 40721 typ srflx raddr 10.99.36.127 rport 56049 generation 0 ufrag eya3 network-id 1 network-cost 10","sdpMid":"1","sdpMLineIndex":1},"name":"ryan"}
+
 conferenceroom.js:28 Received message: {"id":"receiveVideoAnswer","name":"ryan","sdpAnswer":"v=0\r\no=- 3883106056 3883106056 IN IP4 0.0.0.0\r\ns=Kurento Media Server\r\nc=IN IP4 0.0.0.0\r\nt=0 0\r\na=extmap-allow-mixed:\r\na=msid-semantic: WMS o1sL3jHHIghUaV8PzfjvEcjtBRt4h0F8rNSv\r\na=group:BUNDLE 0 1\a=ssrc:2909295258 cname:user2690935933@host-48e6f9e3\r\na=ice-ufrag:xURZ\r\na=ice-pwd:ro26mFHHABwcLZewcWmdrc\r\na=fingerprint:sha-256 CC:A4:47:9E:AE:EF:9B:05:A6:9D:08:06:AC:3F:95:C9:9E:10:A3:02:7A:81:D0:3A:23:4F:2F:F8:4E:35:F8:0A\r\n"}
 conferenceroom.js:28 Received message: {"id":"iceCandidate","name":"ryan","candidate":{"candidate":"candidate:3 1 TCP 1010827519 172.17.0.2 5008 typ host tcptype passive","sdpMid":"0","sdpMLineIndex":0}}
 conferenceroom.js:28 Received message: {"id":"iceCandidate","name":"ryan","candidate":{"candidate":"candidate:3 1 TCP 1010827519 172.17.0.2 5008 typ host tcptype passive","sdpMid":"1","sdpMLineIndex":1}}
