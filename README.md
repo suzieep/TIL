@@ -36,3 +36,13 @@ https://velog.io/@suzieep
 [230114 Spring Data JPA, Projection, yml 분리](https://github.com/suzieep/TIL/blob/main/230114.md)
 <br/>
 [230115 Spring Data JPA 관계 매핑, @Slf4j](https://github.com/suzieep/TIL/blob/main/230115.md)
+<br/>
+[230116 Spring Data JPA over 3depth or 2depth](https://github.com/suzieep/TIL/blob/main/230110.md)
+<br/>
+[230117 s3 terminal에서 확인하기](https://github.com/suzieep/TIL/blob/main/230111.md)
+<br/>
+[230118 미디어 파이프라인 생성 요청](https://github.com/suzieep/TIL/blob/main/230112.md)
+<br/>
+[230119 Servlet, Spring with mongodb](https://github.com/suzieep/TIL/blob/main/230113.md)
+<br/>
+[230120 쿠렌토 로직 정리](https://github.com/suzieep/TIL/blob/main/230113.md)
