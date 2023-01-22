@@ -37,12 +37,14 @@ https://velog.io/@suzieep
 <br/>
 [230115 Spring Data JPA 관계 매핑, @Slf4j](https://github.com/suzieep/TIL/blob/main/230115.md)
 <br/>
-[230116 Spring Data JPA over 3depth or 2depth](https://github.com/suzieep/TIL/blob/main/230110.md)
+[230116 Spring Data JPA over 3depth or 2depth](https://github.com/suzieep/TIL/blob/main/230116.md)
 <br/>
-[230117 s3 terminal에서 확인하기](https://github.com/suzieep/TIL/blob/main/230111.md)
+[230117 s3 terminal에서 확인하기](https://github.com/suzieep/TIL/blob/main/230117.md)
 <br/>
-[230118 미디어 파이프라인 생성 요청](https://github.com/suzieep/TIL/blob/main/230112.md)
+[230118 미디어 파이프라인 생성 요청](https://github.com/suzieep/TIL/blob/main/230118.md)
 <br/>
-[230119 Servlet, Spring with mongodb](https://github.com/suzieep/TIL/blob/main/230113.md)
+[230119 Servlet, Spring with mongodb](https://github.com/suzieep/TIL/blob/main/230119.md)
 <br/>
-[230120 쿠렌토 로직 정리](https://github.com/suzieep/TIL/blob/main/230113.md)
+[230120 Kurento Logic](https://github.com/suzieep/TIL/blob/main/230120.md)
+<br/>
+[230121 syncronized, WebSocket, JSON to JAVA](https://github.com/suzieep/TIL/blob/main/230121.md)
