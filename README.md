@@ -48,3 +48,5 @@ https://velog.io/@suzieep
 [230120 Kurento Logic](https://github.com/suzieep/TIL/blob/main/230120.md)
 <br/>
 [230121 syncronized, WebSocket, JSON to JAVA](https://github.com/suzieep/TIL/blob/main/230121.md)
+<br/>
+[230122 JAVA to JSON, gatherCandidates, Kurento with Stomp](https://github.com/suzieep/TIL/blob/main/230122.md)
