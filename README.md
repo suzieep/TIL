@@ -58,3 +58,11 @@ https://velog.io/@suzieep
 [230125 Kurento SFU 코드 구조 전체 정리](https://github.com/suzieep/TIL/blob/main/230125.md)
 <br/>
 [230126 Spring data JPA Child 삭제, KMS 셋팅 이슈](https://github.com/suzieep/TIL/blob/main/230126.md)
+<br/>
+[230127 KMS 커넥션 오류 트러블 슈팅](https://github.com/suzieep/TIL/blob/main/230127.md)
+<br/>
+[230128 Spring Bean](https://github.com/suzieep/TIL/blob/main/230128.md)
+<br/>
+[230129 Builder](https://github.com/suzieep/TIL/blob/main/230129.md)
+<br/>
+[230130 Enum, Emoji reaction Idea](https://github.com/suzieep/TIL/blob/main/230130.md)
