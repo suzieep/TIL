@@ -66,3 +66,11 @@ https://velog.io/@suzieep
 [230129 Builder](https://github.com/suzieep/TIL/blob/main/230129.md)
 <br/>
 [230130 Enum, Emoji reaction Idea](https://github.com/suzieep/TIL/blob/main/230130.md)
+<br/>
+[230131 Kurento sdp iceCandidate, MongoDB in Spring](https://github.com/suzieep/TIL/blob/main/230131.md)
+<br/>
+[230201 lambda 표현식에서 외부 변수 사용(effectively final)](https://github.com/suzieep/TIL/blob/main/230201.md)
+<br/>
+[230202 stream의 forEach vs map, java 깊은복사 얕은복사](https://github.com/suzieep/TIL/blob/main/230202.md)
+<br/>
+[230203 docker clean up](https://github.com/suzieep/TIL/blob/main/230203.md)
