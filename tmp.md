@@ -40,3 +40,8 @@
 <img width="523" alt="new-손-새로-추가" src="https://user-images.githubusercontent.com/61377122/223925968-50af148d-1a3e-4b3d-b33c-35f9c5fd7963.png">
 <img width="523" alt="new-손-새로-취소" src="https://user-images.githubusercontent.com/61377122/223925986-a86b7364-f7ba-4044-b1cf-0b8f7a72fb0c.png">
 <img width="523" alt="new-손-새로-추가" src="https://user-images.githubusercontent.com/61377122/223926072-85d5466e-30fb-4816-af6b-4c2dc4378f84.png">
+
+https://distove.onstove.com/presence/index.html
+<img width="606" alt="스크린샷 2023-03-10 오전 2 50 39" src="https://user-images.githubusercontent.com/61377122/224112988-aefa38e9-532b-4048-8774-41e7e34fc8a5.png">
+
+![image](https://user-images.githubusercontent.com/61377122/224119193-0db9cf41-82c3-4113-820f-1b85007e6a88.png)
