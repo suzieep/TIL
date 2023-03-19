@@ -4,14 +4,13 @@
 Today I Learned
 
 
-_82 TILs and counting..._
+_80 TILs and counting..._
 
 ---
 
 ### Categories
 
 - [TIL](#TIL)
-- [etc](#etc)
 
 ### [TIL](#TIL)
 - [221626 실시간 통신, 프로그래밍 언어](TIL/221226.md)
@@ -94,10 +93,6 @@ _82 TILs and counting..._
 - [230318 정렬 알고리즘(2) - nlogn](TIL/230318.md)
 - [230319 동시성 제어와 잠금](TIL/230319.md)
 - [230320 ACID와 격리 수준](TIL/230320.md)
-
-### [etc](#etc)
-- [1. voice room 입장 요청](etc/kurento.md)
-- [<img width="1028" alt="스크린샷 2023-03-09 오후 1 23 51" src="https://user-images.githubusercontent.com/61377122/223916715-e2d4e97e-e01e-4d72-90b3-3ff823389c8e.png">](etc/tmp.md)
 
 [1]: https://github.com/suzieep/TIL
 
