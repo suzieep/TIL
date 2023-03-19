@@ -21,5 +21,5 @@ jobs:
             Today I Learned
           footer: |
             [1]: https://github.com/suzieep/TIL
-          # list_most_recent: 0
+          list_most_recent: 5
           # date_format: "2020 Jan 15:04" # optional, must align to https://golang.org/pkg/time/#Time.Format
