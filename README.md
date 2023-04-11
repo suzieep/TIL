@@ -4,21 +4,22 @@
 Today I Learned
 
 
-_80 TILs and counting..._
+_83 TILs and counting..._
 
 ---
 
 ### 5 most recent TILs
 
+- [Section 3) 독립 실행형 서블릿 애플리케이션](tobyspringboot/230411_section3.md) - Tue Apr 11 11:43:22 2023 +0900
+- [Section 2) 스프링 부트 시작하기](tobyspringboot/230410_section2.md) - Tue Apr 11 11:43:22 2023 +0900
+- [Section 1) 스프링 부트 살펴보기](tobyspringboot/230410_section1.md) - Mon Apr 10 18:11:10 2023 +0900
 - [221626 실시간 통신, 프로그래밍 언어](TIL/221226.md) - Mon Mar 20 00:32:57 2023 +0900
-- [221227 협업과 도구, WebRTC](TIL/221227.md) - Mon Mar 20 00:32:57 2023 +0900
-- [221228 WebRTC, SpringMVC](TIL/221228.md) - Mon Mar 20 00:32:57 2023 +0900
-- [230101 WebRTC with Spring](TIL/230101.md) - Mon Mar 20 00:32:57 2023 +0900
 - [230102 Kurento, Java](TIL/230102.md) - Mon Mar 20 00:32:57 2023 +0900
 
 ### Categories
 
 - [TIL](#TIL)
+- [tobyspringboot](#tobyspringboot)
 
 ### [TIL](#TIL)
 - [221626 실시간 통신, 프로그래밍 언어](TIL/221226.md)
@@ -101,6 +102,11 @@ _80 TILs and counting..._
 - [230318 정렬 알고리즘(2) - nlogn](TIL/230318.md)
 - [230319 동시성 제어와 잠금](TIL/230319.md)
 - [230320 ACID와 격리 수준](TIL/230320.md)
+
+### [tobyspringboot](#tobyspringboot)
+- [Section 1) 스프링 부트 살펴보기](tobyspringboot/230410_section1.md)
+- [Section 2) 스프링 부트 시작하기](tobyspringboot/230410_section2.md)
+- [Section 3) 독립 실행형 서블릿 애플리케이션](tobyspringboot/230411_section3.md)
 
 [1]: https://github.com/suzieep/TIL
 
