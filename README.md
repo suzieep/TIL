@@ -4,17 +4,17 @@
 Today I Learned
 
 
-_83 TILs and counting..._
+_84 TILs and counting..._
 
 ---
 
 ### 5 most recent TILs
 
+- [Section 4) 독립 실행형 스프링 애플리케이션](tobyspringboot/230411_section4.md) - Tue Apr 11 17:51:33 2023 +0900
 - [Section 3) 독립 실행형 서블릿 애플리케이션](tobyspringboot/230411_section3.md) - Tue Apr 11 11:43:22 2023 +0900
 - [Section 2) 스프링 부트 시작하기](tobyspringboot/230410_section2.md) - Tue Apr 11 11:43:22 2023 +0900
 - [Section 1) 스프링 부트 살펴보기](tobyspringboot/230410_section1.md) - Mon Apr 10 18:11:10 2023 +0900
 - [221626 실시간 통신, 프로그래밍 언어](TIL/221226.md) - Mon Mar 20 00:32:57 2023 +0900
-- [230102 Kurento, Java](TIL/230102.md) - Mon Mar 20 00:32:57 2023 +0900
 
 ### Categories
 
@@ -107,6 +107,7 @@ _83 TILs and counting..._
 - [Section 1) 스프링 부트 살펴보기](tobyspringboot/230410_section1.md)
 - [Section 2) 스프링 부트 시작하기](tobyspringboot/230410_section2.md)
 - [Section 3) 독립 실행형 서블릿 애플리케이션](tobyspringboot/230411_section3.md)
+- [Section 4) 독립 실행형 스프링 애플리케이션](tobyspringboot/230411_section4.md)
 
 [1]: https://github.com/suzieep/TIL
 
