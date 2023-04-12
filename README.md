@@ -4,22 +4,26 @@
 Today I Learned
 
 
-_84 TILs and counting..._
+_85 TILs and counting..._
 
 ---
 
 ### 5 most recent TILs
 
+- [[PART 1 기초] Chap 1) 자바 8, 9, 10, 11 : 무슨 일이 일어나고 있는가?](ModernJavaInAction/230411_chap1.md) - Tue Apr 11 17:53:49 2023 +0900
 - [Section 4) 독립 실행형 스프링 애플리케이션](tobyspringboot/230411_section4.md) - Tue Apr 11 17:51:33 2023 +0900
 - [Section 3) 독립 실행형 서블릿 애플리케이션](tobyspringboot/230411_section3.md) - Tue Apr 11 11:43:22 2023 +0900
 - [Section 2) 스프링 부트 시작하기](tobyspringboot/230410_section2.md) - Tue Apr 11 11:43:22 2023 +0900
 - [Section 1) 스프링 부트 살펴보기](tobyspringboot/230410_section1.md) - Mon Apr 10 18:11:10 2023 +0900
-- [221626 실시간 통신, 프로그래밍 언어](TIL/221226.md) - Mon Mar 20 00:32:57 2023 +0900
 
 ### Categories
 
+- [ModernJavaInAction](#ModernJavaInAction)
 - [TIL](#TIL)
 - [tobyspringboot](#tobyspringboot)
+
+### [ModernJavaInAction](#ModernJavaInAction)
+- [[PART 1 기초] Chap 1) 자바 8, 9, 10, 11 : 무슨 일이 일어나고 있는가?](ModernJavaInAction/230411_chap1.md)
 
 ### [TIL](#TIL)
 - [221626 실시간 통신, 프로그래밍 언어](TIL/221226.md)
