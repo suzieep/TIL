@@ -11,6 +11,6 @@ import java.lang.annotation.Target;
 // Configuration 선언한 것과 동일한 게 됨
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.TYPE)
-@Configuration
+@Configuration(proxyBeanMethods = false)
 public @interface MyAutoConfiguration {
 }
