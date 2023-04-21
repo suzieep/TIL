@@ -4,17 +4,17 @@
 Today I Learned
 
 
-_88 TILs and counting..._
+_90 TILs and counting..._
 
 ---
 
 ### 5 most recent TILs
 
+- [Section3) 트랜잭션 이해](SpringDB/230421_section3.md) - Fri Apr 21 16:50:18 2023 +0900
+- [Section2) 커넥션풀과 데이터소스 이해](SpringDB/230420_section2.md) - Thu Apr 20 15:05:31 2023 +0900
 - [Section1) JDBC 이해](SpringDB/230419_section1.md) - Wed Apr 19 15:16:31 2023 +0900
 - [Section 6) 자동 구성 기반 애플리케이션](tobyspringboot/230414_section6.md) - Fri Apr 14 18:24:41 2023 +0900
 - [Section 5) DI와 테스트, 디자인 패턴](tobyspringboot/230413_section5.md) - Thu Apr 13 15:45:40 2023 +0900
-- [Section 4) 독립 실행형 스프링 애플리케이션](tobyspringboot/230412_section4.md) - Thu Apr 13 15:45:40 2023 +0900
-- [[PART 1 기초] Chap 1) 자바 8, 9, 10, 11 : 무슨 일이 일어나고 있는가?](ModernJavaInAction/230411_chap1.md) - Tue Apr 11 17:53:49 2023 +0900
 
 ### Categories
 
@@ -28,6 +28,8 @@ _88 TILs and counting..._
 
 ### [SpringDB](#SpringDB)
 - [Section1) JDBC 이해](SpringDB/230419_section1.md)
+- [Section2) 커넥션풀과 데이터소스 이해](SpringDB/230420_section2.md)
+- [Section3) 트랜잭션 이해](SpringDB/230421_section3.md)
 
 ### [TIL](#TIL)
 - [221626 실시간 통신, 프로그래밍 언어](TIL/221226.md)
