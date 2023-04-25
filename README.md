@@ -4,7 +4,7 @@
 Today I Learned
 
 
-_90 TILs and counting..._
+_91 TILs and counting..._
 
 ---
 
@@ -14,7 +14,7 @@ _90 TILs and counting..._
 - [Section2) 커넥션풀과 데이터소스 이해](SpringDB/230420_section2.md) - Thu Apr 20 15:05:31 2023 +0900
 - [Section1) JDBC 이해](SpringDB/230419_section1.md) - Wed Apr 19 15:16:31 2023 +0900
 - [Section 6) 자동 구성 기반 애플리케이션](tobyspringboot/230414_section6.md) - Fri Apr 14 18:24:41 2023 +0900
-- [Section 5) DI와 테스트, 디자인 패턴](tobyspringboot/230413_section5.md) - Thu Apr 13 15:45:40 2023 +0900
+- [# Section 4) 스프링과 문제 해결 - 트랜잭션](SpringDB/230424_section4.md) - Fri Apr 14 16:41:00 2023 +0900
 
 ### Categories
 
@@ -30,6 +30,7 @@ _90 TILs and counting..._
 - [Section1) JDBC 이해](SpringDB/230419_section1.md)
 - [Section2) 커넥션풀과 데이터소스 이해](SpringDB/230420_section2.md)
 - [Section3) 트랜잭션 이해](SpringDB/230421_section3.md)
+- [# Section 4) 스프링과 문제 해결 - 트랜잭션](SpringDB/230424_section4.md)
 
 ### [TIL](#TIL)
 - [221626 실시간 통신, 프로그래밍 언어](TIL/221226.md)
