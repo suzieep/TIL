@@ -4,7 +4,7 @@
 Today I Learned
 
 
-_94 TILs and counting..._
+_97 TILs and counting..._
 
 ---
 
@@ -24,8 +24,11 @@ _94 TILs and counting..._
 - [TIL](#TIL)
 
 ### [HTTP](#HTTP)
-- [Internet Network](HTTP/230706_Internet-Network.md)
-- [URI & Web Browser Request Flow](HTTP/230706_URI-WebBrowser-RequestFlow.md)
+- [Internet Network](HTTP/230706_1_Internet-Network.md)
+- [URI & Web Browser Request Flow](HTTP/230706_2_URI-WebBrowser-RequestFlow.md)
+- [HTTP : HyperText Transfer Protocol](HTTP/230706_3_HTTP.md)
+- [HTTP-Method](HTTP/230706_4_HTTP-Method.md)
+- [HTTP-Status-Code](HTTP/230706_5_HTTP-Status-Code.md)
 
 ### [SpringBoot](#SpringBoot)
 - [Section 1) 스프링 부트 살펴보기](SpringBoot/230410_section1.md)
