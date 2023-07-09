@@ -4,13 +4,46 @@
 Today I Learned
 
 
-_80 TILs and counting..._
+_97 TILs and counting..._
 
 ---
 
+### 5 most recent TILs
+
+- [Section 5) 자바 예외 이해](SpringDB/230425_section5.md) - Wed Apr 26 15:16:41 2023 +0900
+- [Section 4) 스프링과 문제 해결 - 트랜잭션](SpringDB/230424_section4.md) - Mon Apr 24 16:41:00 2023 +0900
+- [Section3) 트랜잭션 이해](SpringDB/230421_section3.md) - Fri Apr 21 16:50:18 2023 +0900
+- [Section2) 커넥션풀과 데이터소스 이해](SpringDB/230420_section2.md) - Thu Apr 20 15:05:31 2023 +0900
+- [Section1) JDBC 이해](SpringDB/230419_section1.md) - Wed Apr 19 15:16:31 2023 +0900
+
 ### Categories
 
+- [HTTP](#HTTP)
+- [SpringBoot](#SpringBoot)
+- [SpringDB](#SpringDB)
 - [TIL](#TIL)
+
+### [HTTP](#HTTP)
+- [Internet Network](HTTP/230706_1_Internet-Network.md)
+- [URI & Web Browser Request Flow](HTTP/230706_2_URI-WebBrowser-RequestFlow.md)
+- [HTTP : HyperText Transfer Protocol](HTTP/230706_3_HTTP.md)
+- [HTTP-Method](HTTP/230706_4_HTTP-Method.md)
+- [HTTP-Status-Code](HTTP/230706_5_HTTP-Status-Code.md)
+
+### [SpringBoot](#SpringBoot)
+- [Section 1) 스프링 부트 살펴보기](SpringBoot/230410_section1.md)
+- [Section 2) 스프링 부트 시작하기](SpringBoot/230410_section2.md)
+- [Section 3) 독립 실행형 서블릿 애플리케이션](SpringBoot/230411_section3.md)
+- [Section 4) 독립 실행형 스프링 애플리케이션](SpringBoot/230412_section4.md)
+- [Section 5) DI와 테스트, 디자인 패턴](SpringBoot/230413_section5.md)
+- [Section 6) 자동 구성 기반 애플리케이션](SpringBoot/230414_section6.md)
+
+### [SpringDB](#SpringDB)
+- [Section1) JDBC 이해](SpringDB/230419_section1.md)
+- [Section2) 커넥션풀과 데이터소스 이해](SpringDB/230420_section2.md)
+- [Section3) 트랜잭션 이해](SpringDB/230421_section3.md)
+- [Section 4) 스프링과 문제 해결 - 트랜잭션](SpringDB/230424_section4.md)
+- [Section 5) 자바 예외 이해](SpringDB/230425_section5.md)
 
 ### [TIL](#TIL)
 - [221626 실시간 통신, 프로그래밍 언어](TIL/221226.md)
@@ -93,6 +126,7 @@ _80 TILs and counting..._
 - [230318 정렬 알고리즘(2) - nlogn](TIL/230318.md)
 - [230319 동시성 제어와 잠금](TIL/230319.md)
 - [230320 ACID와 격리 수준](TIL/230320.md)
+- [[PART 1 기초] Chap 1) 자바 8, 9, 10, 11 : 무슨 일이 일어나고 있는가?](TIL/230411.md)
 
 [1]: https://github.com/suzieep/TIL
 
