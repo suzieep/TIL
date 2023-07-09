@@ -4,17 +4,17 @@
 Today I Learned
 
 
-_97 TILs and counting..._
+_100 TILs and counting..._
 
 ---
 
 ### 5 most recent TILs
 
+- [Header-Cache](HTTP/230709_7_HTTP-Header-Cache.md) - Mon Jul 10 00:28:41 2023 +0900
+- [Header-Cookie](HTTP/230709_7_HTTP-Header-Cookie.md) - Mon Jul 10 00:28:41 2023 +0900
+- [HTTP Header](HTTP/230709_6_HTTP-Header.md) - Mon Jul 10 00:28:41 2023 +0900
 - [Section 5) 자바 예외 이해](SpringDB/230425_section5.md) - Wed Apr 26 15:16:41 2023 +0900
 - [Section 4) 스프링과 문제 해결 - 트랜잭션](SpringDB/230424_section4.md) - Mon Apr 24 16:41:00 2023 +0900
-- [Section3) 트랜잭션 이해](SpringDB/230421_section3.md) - Fri Apr 21 16:50:18 2023 +0900
-- [Section2) 커넥션풀과 데이터소스 이해](SpringDB/230420_section2.md) - Thu Apr 20 15:05:31 2023 +0900
-- [Section1) JDBC 이해](SpringDB/230419_section1.md) - Wed Apr 19 15:16:31 2023 +0900
 
 ### Categories
 
@@ -29,6 +29,9 @@ _97 TILs and counting..._
 - [HTTP : HyperText Transfer Protocol](HTTP/230706_3_HTTP.md)
 - [HTTP-Method](HTTP/230706_4_HTTP-Method.md)
 - [HTTP-Status-Code](HTTP/230706_5_HTTP-Status-Code.md)
+- [HTTP Header](HTTP/230709_6_HTTP-Header.md)
+- [Header-Cache](HTTP/230709_7_HTTP-Header-Cache.md)
+- [Header-Cookie](HTTP/230709_7_HTTP-Header-Cookie.md)
 
 ### [SpringBoot](#SpringBoot)
 - [Section 1) 스프링 부트 살펴보기](SpringBoot/230410_section1.md)
