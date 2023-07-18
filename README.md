@@ -8,14 +8,6 @@ _103 TILs and counting..._
 
 ---
 
-### 5 most recent TILs
-
-- [230714](TIL/230714.md) - Fri Jul 14 18:04:58 2023 +0900
-- [Header-Cache](HTTP/230709_8_HTTP-Header-Cache copy.md) - Fri Jul 14 18:04:58 2023 +0900
-- [Header-Cache](HTTP/230714_9_HTTP-조건부 요청.md) - Fri Jul 14 18:04:58 2023 +0900
-- [HTTP Header](HTTP/230709_6_HTTP-Header.md) - Mon Jul 10 00:28:41 2023 +0900
-- [Header-Cookie](HTTP/230709_7_HTTP-Header-Cookie.md) - Mon Jul 10 00:28:41 2023 +0900
-
 ### Categories
 
 - [DesignPattern](#DesignPattern)
