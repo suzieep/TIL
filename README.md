@@ -4,7 +4,7 @@
 Today I Learned
 
 
-_103 TILs and counting..._
+_104 TILs and counting..._
 
 ---
 
@@ -128,6 +128,7 @@ _103 TILs and counting..._
 - [230320 ACID와 격리 수준](TIL/230320.md)
 - [[PART 1 기초] Chap 1) 자바 8, 9, 10, 11 : 무슨 일이 일어나고 있는가?](TIL/230411.md)
 - [230714](TIL/230714.md)
+- [new() builder  차이,](TIL/230720.md)
 
 [1]: https://github.com/suzieep/TIL
 
