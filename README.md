@@ -4,7 +4,7 @@
 Today I Learned
 
 
-_107 TILs and counting..._
+_108 TILs and counting..._
 
 ---
 
@@ -28,10 +28,11 @@ _107 TILs and counting..._
 - [HTTP-Status-Code](HTTP/230706_5_HTTP-Status-Code.md)
 - [HTTP Header](HTTP/230709_6_HTTP-Header.md)
 - [Header-Cookie](HTTP/230709_7_HTTP-Header-Cookie.md)
-- [Header-Cache](HTTP/230709_8_HTTP-Header-Cache copy.md)
-- [Header-Cache](HTTP/230714_9_HTTP-조건부 요청.md)
+- [Header-Cache](HTTP/230709_8_HTTP-Header-Cache.md)
+- [Header-Cache](HTTP/230714_9_HTTP-조건부요청.md)
 - [HTTP Session](HTTP/230724_10_Session.md)
 - [HTTP 범위 요청](HTTP/230724_11_범위요청.md)
+- [HTTP Redirect](HTTP/230724_12_HTTP-redirect.md)
 
 ### [SpringBoot](#SpringBoot)
 - [Section 1) 스프링 부트 살펴보기](SpringBoot/230410_section1.md)
