@@ -4,7 +4,7 @@
 Today I Learned
 
 
-_108 TILs and counting..._
+_107 TILs and counting..._
 
 ---
 
@@ -131,8 +131,7 @@ _108 TILs and counting..._
 - [230319 동시성 제어와 잠금](TIL/230319.md)
 - [230320 ACID와 격리 수준](TIL/230320.md)
 - [[PART 1 기초] Chap 1) 자바 8, 9, 10, 11 : 무슨 일이 일어나고 있는가?](TIL/230411.md)
-- [230714](TIL/230714.md)
-- [new() builder  차이,](TIL/230720.md)
+- [230727](TIL/230727.md)
 
 [1]: https://github.com/suzieep/TIL
 
