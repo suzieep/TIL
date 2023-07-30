@@ -4,7 +4,7 @@
 Today I Learned
 
 
-_108 TILs and counting..._
+_110 TILs and counting..._
 
 ---
 
@@ -33,6 +33,9 @@ _108 TILs and counting..._
 - [HTTP Session](HTTP/230724_10_Session.md)
 - [HTTP 범위 요청](HTTP/230724_11_범위요청.md)
 - [HTTP Redirect/Foward](HTTP/230724_12_HTTP-redirect.md)
+- [Protocol Upgrade](HTTP/230728_13_Protocol-Upgrade-ws.md)
+- [# CORS](HTTP/230728_14_CORS.md)
+- [](HTTP/230730_7_1_XSS_CSRF.md)
 
 ### [SpringBoot](#SpringBoot)
 - [Section 1) 스프링 부트 살펴보기](SpringBoot/230410_section1.md)
@@ -131,8 +134,7 @@ _108 TILs and counting..._
 - [230319 동시성 제어와 잠금](TIL/230319.md)
 - [230320 ACID와 격리 수준](TIL/230320.md)
 - [[PART 1 기초] Chap 1) 자바 8, 9, 10, 11 : 무슨 일이 일어나고 있는가?](TIL/230411.md)
-- [230714](TIL/230714.md)
-- [new() builder  차이,](TIL/230720.md)
+- [230727](TIL/230727.md)
 
 [1]: https://github.com/suzieep/TIL
 
