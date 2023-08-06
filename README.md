@@ -4,7 +4,7 @@
 Today I Learned
 
 
-_111 TILs and counting..._
+_112 TILs and counting..._
 
 ---
 
@@ -19,6 +19,7 @@ _111 TILs and counting..._
 ### [DesignPattern](#DesignPattern)
 - [UML에 대해서](DesignPattern/230718.md)
 - [230724 Iterator, Adapter 연습](DesignPattern/230724_1-2.md)
+- [Factory Method Pattern](DesignPattern/230807_Factory_Method_Pattern.md)
 
 ### [HTTP](#HTTP)
 - [Internet Network](HTTP/230706_1_Internet-Network.md)
