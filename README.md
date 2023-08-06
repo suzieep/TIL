@@ -4,7 +4,7 @@
 Today I Learned
 
 
-_110 TILs and counting..._
+_111 TILs and counting..._
 
 ---
 
@@ -51,6 +51,7 @@ _110 TILs and counting..._
 - [Section3) 트랜잭션 이해](SpringDB/230421_section3.md)
 - [Section 4) 스프링과 문제 해결 - 트랜잭션](SpringDB/230424_section4.md)
 - [Section 5) 자바 예외 이해](SpringDB/230425_section5.md)
+- [SpringDB2/Section1) 데이터 접근 기술 - 시작](SpringDB/230710_DB2_section1.md)
 
 ### [TIL](#TIL)
 - [221626 실시간 통신, 프로그래밍 언어](TIL/221226.md)
