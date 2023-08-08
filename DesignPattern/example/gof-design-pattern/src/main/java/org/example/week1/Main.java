@@ -1,4 +1,4 @@
-package org.example;
+package org.example.week1;
 
 import java.util.Iterator;
 
