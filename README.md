@@ -4,7 +4,7 @@
 Today I Learned
 
 
-_117 TILs and counting..._
+_118 TILs and counting..._
 
 ---
 
@@ -136,12 +136,13 @@ _117 TILs and counting..._
 - [230318 정렬 알고리즘(2) - nlogn](TIL/230318.md)
 - [230319 동시성 제어와 잠금](TIL/230319.md)
 - [230320 ACID와 격리 수준](TIL/230320.md)
-- [[PART 1 기초] Chap 1) 자바 8, 9, 10, 11 : 무슨 일이 일어나고 있는가?](TIL/230411.md)
-- [230727](TIL/230727.md)
-- [[Java] int와 Integer](TIL/230831.md)
-- [## References](TIL/230913.md)
-- [[not containsKey] not working](TIL/230921.md)
-- [## Reflection](TIL/231211.md)
+- [230411 자바 8, 9, 10, 11 : 무슨 일이 일어나고 있는가?](TIL/230411.md)
+- [230727 Async, Cascade, Entity 상태, propagation](TIL/230727.md)
+- [230831 [Java] int와 Integer](TIL/230831.md)
+- [230913 캐스팅, SQL Exception, static](TIL/230913.md)
+- [230921 [not containsKey] not working](TIL/230921.md)
+- [231211 Reflection](TIL/231211.md)
+- [231213 Java 비동기 호출, BaseEntity](TIL/231213.md)
 
 [1]: https://github.com/suzieep/TIL
 
