@@ -4,7 +4,7 @@
 Today I Learned
 
 
-_119 TILs and counting..._
+_120 TILs and counting..._
 
 ---
 
@@ -144,6 +144,7 @@ _119 TILs and counting..._
 - [231211 Reflection](TIL/231211.md)
 - [231213 Java 비동기 호출, BaseEntity](TIL/231213.md)
 - [231214 telnet, fetch type, 온라인쇼핑몰 DB 짜보기(ing)](TIL/231214.md)
+- [231226 annotation으로 Controller에서 권한 체크하기](TIL/231226.md)
 
 [1]: https://github.com/suzieep/TIL
 
