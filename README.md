@@ -4,7 +4,7 @@
 Today I Learned
 
 
-_121 TILs and counting..._
+_122 TILs and counting..._
 
 ---
 
@@ -146,6 +146,7 @@ _121 TILs and counting..._
 - [231214 telnet, fetch type, 온라인쇼핑몰 DB 짜보기(ing)](TIL/231214.md)
 - [231226 annotation으로 Controller에서 권한 체크하기](TIL/231226.md)
 - [240105 FetchType.EAGER 중첩으로 인한 Duplicated Key 문제](TIL/240105.md)
+- [230118 Azure Open AI](TIL/240118.md)
 
 [1]: https://github.com/suzieep/TIL
 
