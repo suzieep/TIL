@@ -4,7 +4,7 @@
 Today I Learned
 
 
-_125 TILs and counting..._
+_126 TILs and counting..._
 
 ---
 
@@ -150,6 +150,7 @@ _125 TILs and counting..._
 - [240109 Batch, Kafka Consumer](TIL/240109.md)
 - [230116 Kafka Consumer poll](TIL/240116.md)
 - [230118 Azure Open AI](TIL/240118.md)
+- [Map Struct](TIL/240214.md)
 
 [1]: https://github.com/suzieep/TIL
 
