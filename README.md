@@ -4,7 +4,7 @@
 Today I Learned
 
 
-_128 TILs and counting..._
+_130 TILs and counting..._
 
 ---
 
@@ -153,6 +153,8 @@ _128 TILs and counting..._
 - [240214 Map Struct](TIL/240214.md)
 - [240219 CascadeType 영속성 전이](TIL/240219.md)
 - [240220 stream().peek()](TIL/240220.md)
+- [240221 Custom Exception Handling (@(Rest)ControllerAdvice, @ExceptionHandler)](TIL/240221.md)
+- [240226 @Valid Nested Dto 검증](TIL/240226.md)
 
 [1]: https://github.com/suzieep/TIL
 
