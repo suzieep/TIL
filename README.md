@@ -4,23 +4,16 @@
 Today I Learned
 
 
-_130 TILs and counting..._
+_127 TILs and counting..._
 
 ---
 
 ### Categories
 
-- [DesignPattern](#DesignPattern)
 - [HTTP](#HTTP)
 - [SpringBoot](#SpringBoot)
 - [SpringDB](#SpringDB)
 - [TIL](#TIL)
-
-### [DesignPattern](#DesignPattern)
-- [UML에 대해서](DesignPattern/230718.md)
-- [230724 Iterator, Adapter 연습](DesignPattern/230724_1-2.md)
-- [Factory Method Pattern](DesignPattern/230807_Factory_Method_Pattern.md)
-- [Builder Pattern](DesignPattern/230829_Builder_Pattern.md)
 
 ### [HTTP](#HTTP)
 - [Internet Network](HTTP/230706_1_Internet-Network.md)
@@ -137,6 +130,7 @@ _130 TILs and counting..._
 - [230319 동시성 제어와 잠금](TIL/230319.md)
 - [230320 ACID와 격리 수준](TIL/230320.md)
 - [230411 자바 8, 9, 10, 11 : 무슨 일이 일어나고 있는가?](TIL/230411.md)
+- [UML에 대해서](TIL/230718.md)
 - [230727 Async, Cascade, Entity 상태, propagation](TIL/230727.md)
 - [230831 [Java] int와 Integer](TIL/230831.md)
 - [230913 캐스팅, SQL Exception, static](TIL/230913.md)
