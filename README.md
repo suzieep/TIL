@@ -62,7 +62,7 @@ _129 TILs and counting..._
 - [230111 Spring JPA](TIL/230111.md)
 - [230112 @id 어노테이션](TIL/230112.md)
 - [230113 Spring Data JPA relation table](TIL/230113.md)
-- [230114](TIL/230114.md)
+- [230114 yml 환경 분리](TIL/230114.md)
 - [230115 Spring Data JPA 관계 매핑, @Slf4j](TIL/230115.md)
 - [230116 Spring Data JPA over 3depth or 2depth](TIL/230116.md)
 - [230117 s3 terminal에서 확인하기](TIL/230117.md)
@@ -129,7 +129,7 @@ _129 TILs and counting..._
 - [230319 동시성 제어와 잠금](TIL/230319.md)
 - [230320 ACID와 격리 수준](TIL/230320.md)
 - [230411 자바 8, 9, 10, 11 : 무슨 일이 일어나고 있는가?](TIL/230411.md)
-- [UML에 대해서](TIL/230718.md)
+- [230718 UML에 대해서](TIL/230718.md)
 - [230727 Async, Cascade, Entity 상태, propagation](TIL/230727.md)
 - [230831 [Java] int와 Integer](TIL/230831.md)
 - [230913 캐스팅, SQL Exception, static](TIL/230913.md)
@@ -149,7 +149,7 @@ _129 TILs and counting..._
 - [240221 Custom Exception Handling (@(Rest)ControllerAdvice, @ExceptionHandler)](TIL/240221.md)
 - [240226 @Valid Nested Dto 검증](TIL/240226.md)
 - [240228 Local Cache](TIL/240228.md)
-- [# 240306 Jackson Deserialize error](TIL/240306.md)
+- [240306 Jackson Deserialize error](TIL/240306.md)
 - [240307 List에 @Valid 적용 안되는 문제](TIL/240307.md)
 
 [1]: https://github.com/suzieep/TIL
