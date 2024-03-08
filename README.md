@@ -4,7 +4,7 @@
 Today I Learned
 
 
-_127 TILs and counting..._
+_130 TILs and counting..._
 
 ---
 
@@ -149,6 +149,9 @@ _127 TILs and counting..._
 - [240220 stream().peek()](TIL/240220.md)
 - [240221 Custom Exception Handling (@(Rest)ControllerAdvice, @ExceptionHandler)](TIL/240221.md)
 - [240226 @Valid Nested Dto 검증](TIL/240226.md)
+- [240228 Local Cache](TIL/240228.md)
+- [# 240306 Jackson Deserialize error](TIL/240306.md)
+- [240307 List에 @Valid 적용 안되는 문제](TIL/240307.md)
 
 [1]: https://github.com/suzieep/TIL
 
