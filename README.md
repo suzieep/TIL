@@ -29,8 +29,8 @@ _129 TILs and counting..._
 - [HTTP 범위 요청](HTTP/230724_11_범위요청.md)
 - [HTTP Redirect/Foward](HTTP/230724_12_HTTP-redirect.md)
 - [Protocol Upgrade](HTTP/230728_13_Protocol-Upgrade-ws.md)
-- [# CORS](HTTP/230728_14_CORS.md)
-- [](HTTP/230730_7_1_XSS_CSRF.md)
+- [CORS](HTTP/230728_14_CORS.md)
+- [XSS 공격](HTTP/230730_7_1_XSS_CSRF.md)
 
 ### [SpringBoot](#SpringBoot)
 - [Section 1) 스프링 부트 살펴보기](SpringBoot/230410_section1.md)
