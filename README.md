@@ -4,7 +4,7 @@
 Today I Learned
 
 
-_129 TILs and counting..._
+_130 TILs and counting..._
 
 ---
 
@@ -151,6 +151,7 @@ _129 TILs and counting..._
 - [240228 Local Cache](TIL/240228.md)
 - [240306 Jackson Deserialize error](TIL/240306.md)
 - [240307 List에 @Valid 적용 안되는 문제](TIL/240307.md)
+- [240311 @Valid vs @Validated](TIL/240311.md)
 
 [1]: https://github.com/suzieep/TIL
 
