@@ -4,7 +4,7 @@
 Today I Learned
 
 
-_130 TILs and counting..._
+_131 TILs and counting..._
 
 ---
 
@@ -152,6 +152,7 @@ _130 TILs and counting..._
 - [240306 Jackson Deserialize error](TIL/240306.md)
 - [240307 List에 @Valid 적용 안되는 문제](TIL/240307.md)
 - [240311 @Valid vs @Validated](TIL/240311.md)
+- [240610 [Elasticsearch] 난 like 검색이 필요했을 뿐인데..](TIL/240610.md)
 
 [1]: https://github.com/suzieep/TIL
 
