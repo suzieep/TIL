@@ -4,7 +4,7 @@
 Today I Learned
 
 
-_131 TILs and counting..._
+_132 TILs and counting..._
 
 ---
 
@@ -153,6 +153,7 @@ _131 TILs and counting..._
 - [240307 List에 @Valid 적용 안되는 문제](TIL/240307.md)
 - [240311 @Valid vs @Validated](TIL/240311.md)
 - [240610 [Elasticsearch] 난 like 검색이 필요했을 뿐인데..](TIL/240610.md)
+- [240702 ObjectMapper로 제네릭 Deserialize 하기, TypeReference?](TIL/240702.md)
 
 [1]: https://github.com/suzieep/TIL
 
