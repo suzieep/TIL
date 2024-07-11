@@ -4,7 +4,7 @@
 Today I Learned
 
 
-_132 TILs and counting..._
+_133 TILs and counting..._
 
 ---
 
@@ -154,6 +154,7 @@ _132 TILs and counting..._
 - [240311 @Valid vs @Validated](TIL/240311.md)
 - [240610 [Elasticsearch] 난 like 검색이 필요했을 뿐인데..](TIL/240610.md)
 - [240702 ObjectMapper로 제네릭 Deserialize 하기, TypeReference?](TIL/240702.md)
+- [240711 Refresh Token RTR 방식](TIL/240711.md)
 
 [1]: https://github.com/suzieep/TIL
 
