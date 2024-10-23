@@ -4,7 +4,7 @@
 Today I Learned
 
 
-_134 TILs and counting..._
+_135 TILs and counting..._
 
 ---
 
@@ -156,6 +156,7 @@ _134 TILs and counting..._
 - [240702 ObjectMapper로 제네릭 Deserialize 하기, TypeReference?](TIL/240702.md)
 - [240711 Refresh Token RTR 방식](TIL/240711.md)
 - [240830 ThreadLocal로 유저 정보 처리하기](TIL/240830.md)
+- [241022 @Transactional 적용 범위](TIL/241022.md)
 
 [1]: https://github.com/suzieep/TIL
 
