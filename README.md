@@ -4,7 +4,7 @@
 Today I Learned
 
 
-_135 TILs and counting..._
+_136 TILs and counting..._
 
 ---
 
@@ -157,6 +157,7 @@ _135 TILs and counting..._
 - [240711 Refresh Token RTR 방식](TIL/240711.md)
 - [240830 ThreadLocal로 유저 정보 처리하기](TIL/240830.md)
 - [241022 @Transactional 적용 범위](TIL/241022.md)
+- [241023 [Error] A collection with cascade="all-delete-orphan" was no longer referenced by the owning entity instance](TIL/241023.md)
 
 [1]: https://github.com/suzieep/TIL
 
